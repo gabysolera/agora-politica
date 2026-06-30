@@ -134,7 +134,7 @@ export default function ProyectoDetalle() {
           Materiales del proyecto
         </p>
         <div style={{ display: "flex", flexDirection: "column", gap: 10 }}>
-          <MaterialButton label="Revista Ágora — Edición Limón 2026 (descargar PDF)" icon="⬇" href="https://drive.google.com/uc?export=download&id=1GV4Y4ZsSz8yOpWa-69X1tRBg_kSNekTf" download />
+          <MaterialButton label="Revista Ágora — Edición Limón 2026 (descargar PDF)" icon="⬇" href="https://drive.google.com/uc?export=download&id=1zDVIsw_sPzWpvp631pzFN-959ylwjfMq" download />
           <MaterialButton label="Mini documental" icon="▶" href={null} disabled hint="Próximamente" />
         </div>
       </div>
